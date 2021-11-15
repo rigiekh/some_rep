@@ -2,6 +2,20 @@
 
 # Начало работы и подготовка 
 
+*Перед началом работы нужно представиться репозиторию:*
+* git config user.name
+* git config usen.email
+
+*Можно прописать name и email локально:*
+* git config --local user.name
+* git config --local usen.email
+
+>**Если нам нужно какая-то информация о командах, то можно ввести команду --info и git подскажет, какие у нас есть варианты:**
+
+* git status --info
+
+* git commit --info
+
 # Работа с сохранениями
 
 # Журнал изменений (git log)
